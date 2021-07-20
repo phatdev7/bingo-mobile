@@ -24,7 +24,7 @@
     "moment": "^2.24.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
-    "react-native": "~0.61.4",
+    "react-native": "~0.62.3",
     "react-native-camera": "^3.15.1",
     "react-native-device-info": "^5.4.0",
     "react-native-firebase": "^5.6.0",
